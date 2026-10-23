@@ -5,7 +5,7 @@ public class trangiahuytuan2 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
 
-        System.out.print("Nhap ho ten: ");
+        System.out.print("Nhap ho ten di ban!!!!!: ");
         String hoTen = sc.nextLine();
 
         System.out.println("Ho ten cua ban la: " + hoTen);
